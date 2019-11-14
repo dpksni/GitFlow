@@ -1,2 +1,2 @@
 const adel = 'Adel';
-console.log(`${adel}`);
+console.log(`My name is ${adel}; Added new`);
